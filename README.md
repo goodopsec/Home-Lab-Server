@@ -16,3 +16,4 @@ Raspberry Pi 4B:
 - Nextcloud - Selfhosted Google Suite alternative (Cloud storage, shared calander, notes, etc.)
 - Jellyfin - Media server
 - Homarr - Dashboard
+- Immich - Photo library
