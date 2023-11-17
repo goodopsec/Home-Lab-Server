@@ -17,3 +17,4 @@ Raspberry Pi 4B:
 - Jellyfin - Media server
 - Homarr - Dashboard
 - Immich - Photo library
+- Pi-hole - DNS sinkhole
