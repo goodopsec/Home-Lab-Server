@@ -11,9 +11,9 @@ Raspberry Pi 4B:
   + OS: DietPi OS
   + Storage: 512GB USB drive
 <br><br>
-Sophos XG230 Firewall
+Sophos XG230: Firewall
 <br><br>
-Cisco SG20 Switch
+Cisco SG20: Switch
 <br><br>
 
 # Applications & Services 
