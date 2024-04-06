@@ -11,6 +11,11 @@ Raspberry Pi 4B:
   + OS: DietPi OS
   + Storage: 512GB USB drive
 <br><br>
+Sophos XG230 Firewall
+<br><br>
+Cisco SG20 Switch
+<br><br>
+
 # Applications & Services 
 - Portainer - Docker container orchestration
 - Nextcloud - Selfhosted Google Suite alternative (Cloud storage, shared calander, notes, etc.)
