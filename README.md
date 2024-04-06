@@ -1,6 +1,10 @@
 # Home-Lab-Server
 <br> <br>
 # Hardware
+Sophos XG230: Firewall
+<br><br>
+Cisco SG200: Switch
+<br><br>
 Lenovo Thinkcentre M720q: Main server
   - CPU: i5-8600T
   - RAM: 16GB
