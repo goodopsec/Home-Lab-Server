@@ -20,5 +20,5 @@ Raspberry Pi 4B:
 - [Nextcloud](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Nextcloud.md) - Selfhosted Google Suite alternative (Cloud storage, shared calander, notes, etc.)
 - [Jellyfin](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Jellyfin.md) - Media server
 - [Homarr](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Homarr.md) - Dashboard
-- Immich - Photo library
+- [Immich](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Immich.md) - Photo library
 - Pi-hole - DNS sinkhole
