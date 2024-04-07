@@ -16,7 +16,7 @@ Raspberry Pi 4B:
   + Storage: 512GB USB drive
 
 # Applications & Services 
-- Portainer - Docker container orchestration
+- [Portainer](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Portainer.md) - Docker container orchestration
 - Nextcloud - Selfhosted Google Suite alternative (Cloud storage, shared calander, notes, etc.)
 - Jellyfin - Media server
 - Homarr - Dashboard
