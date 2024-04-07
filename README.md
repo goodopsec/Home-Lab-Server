@@ -17,7 +17,7 @@ Raspberry Pi 4B:
 
 # Applications & Services 
 - [Portainer](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Portainer.md) - Docker container orchestration
-- Nextcloud - Selfhosted Google Suite alternative (Cloud storage, shared calander, notes, etc.)
+- [Nextcloud](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Nextcloud.md) - Selfhosted Google Suite alternative (Cloud storage, shared calander, notes, etc.)
 - Jellyfin - Media server
 - Homarr - Dashboard
 - Immich - Photo library
