@@ -1,4 +1,7 @@
 # Home-Lab-Server
+## Topology
+![image](https://github.com/wh0datboi/Home-Lab-Server/assets/37912203/e3c16f41-a692-46b8-960a-fe7c9caa7407)
+
 <br> <br>
 # Hardware
 Sophos XG230: Firewall
