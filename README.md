@@ -16,9 +16,6 @@ Lenovo Thinkcentre M720q: Main server
   - Storage: 1TB HDD
   - OS: Ubuntu Server
 <br><br>
-Raspberry Pi 4B:
-  + OS: DietPi OS
-  + Storage: 512GB USB drive
 
 # Applications & Services 
 - [Portainer](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Portainer.md) - Docker container orchestration
