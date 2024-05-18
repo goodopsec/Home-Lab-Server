@@ -4,7 +4,7 @@
 
 <br> <br>
 # Hardware
-Sophos XG230: Firewall
+[Sophos XG230](https://github.com/wh0datboi/Home-Lab-Server/blob/main/Sophos.md): Firewall
 <br><br>
 Cisco SG200: Switch (no longer in use)
 <br><br>
