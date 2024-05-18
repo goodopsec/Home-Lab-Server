@@ -6,7 +6,9 @@
 # Hardware
 Sophos XG230: Firewall
 <br><br>
-Cisco SG200: Switch
+Cisco SG200: Switch (no longer in use)
+<br><br>
+Unifi US 24 500W
 <br><br>
 Lenovo Thinkcentre M720q: Main server
   - CPU: i5-8600T
